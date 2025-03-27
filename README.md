@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kailop Meepho (Ham)</h1>
-<h3 align="center">A passionate DevOps Engineer from Thailand</h3>
+<h3 align="center">DevOps and Cloud expert (AWS, Azure) with strong Cybersecurity, Blockchain, and Big Data skills. RHCE-certified, experienced in team leadership, cloud infrastructure management, and process optimization. Passionate about continuous learning and leadership growth from Thailand</h3>
 
 - 📝 Follow me on [https://medium.com/@kailop.meepho](https://medium.com/@kailop.meepho)
 
