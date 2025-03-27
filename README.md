@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kailop Meepho (Ham)</h1>
 DevOps and Cloud expert (AWS, Azure) with strong Cybersecurity, Blockchain, and Big Data skills. RHCE-certified, experienced in team leadership, cloud infrastructure management, and process optimization. Passionate about continuous learning and leadership growth from Thailand
 
-- 📝 Follow me on [https://medium.com/@kailop.meepho](https://medium.com/@kailop.meepho)
-
-- 📫 How to reach me **kailop.meepho@gmail.com**
+📝 Follow me on [https://medium.com/@kailop.meepho](https://medium.com/@kailop.meepho)
+📫 How to reach me **kailop.meepho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
