@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kailop Meepho (Ham)</h1>
 <h3 align="center">A passionate DevOps Engineer from Thailand</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@kailop.meepho](https://medium.com/@kailop.meepho)
+- 📝 Follow me on [https://medium.com/@kailop.meepho](https://medium.com/@kailop.meepho)
 
 - 📫 How to reach me **kailop.meepho@gmail.com**
 
