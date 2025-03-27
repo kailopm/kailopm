@@ -5,7 +5,7 @@ DevOps and Cloud expert (AWS, Azure) with strong Cybersecurity, Blockchain, and 
 
 - 📫 How to reach me **kailop.meepho@gmail.com**
 
-### Blogs posts
+### Blogs posts!
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
